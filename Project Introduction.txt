@@ -1,4 +1,5 @@
-
+NAME : Anju Nediyathu Moni
+STUDENT ID : 300375074
 Introduction
 
 Management Information Systems is a well known field which has many emerging technologies with Artificial intelligence (AI) being the most popular one. The topic of this report focuses on AI, which is a branch of computer science that is used by computers to mimic the aspects of human intelligence. The purpose of this report is to provide a deeper understanding of AI and how it works in MIS and in businesses. 
